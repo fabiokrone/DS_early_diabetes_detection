@@ -9,7 +9,4 @@ In this project, you will train a machine learning model to predict whether an i
 
 
 
-<br>
-
-
 
